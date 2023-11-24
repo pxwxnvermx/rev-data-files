@@ -9,7 +9,7 @@ I have tried to keep the dependency on external libraries as low as possible. Th
 ### Executable x86_64
 ![Binary Visualized](examples/todo-htmx-golang.out.png) 
 
-### Text (Lowercase)
-![Words Visualized](examples/words.txt.out.png) 
-
-### Text (Uppercase)
+### Text (Lowercase, Uppercase, Mixedcase)
+![Lowercase Words Visualized](examples/words.txt.out.png) 
+![Uppercase Words Visualized](examples/upper_words.txt.out.png) 
+![Mixed Words Visualized](examples/mixed_words.txt.out.png) 
